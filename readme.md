@@ -4,4 +4,4 @@
 
 ** Republish site: ** 
   
-  actions > click workflow run pages build and deployment > click 'rerun all jobs' button
+  actions > click 'Deploy static content to Pages' > click 'Run workflow' button
