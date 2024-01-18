@@ -5,3 +5,7 @@
 ** Republish site: ** 
   
   actions > click 'Deploy static content to Pages' > click 'Run workflow' button
+
+** Save without formatting in visual code **
+
+  ctrl + k   s
